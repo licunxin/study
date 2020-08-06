@@ -1,4 +1,4 @@
-# Git Course 
+# Git Course - Learning interactions with git and github
 
 Vamo ve se funfa memo essa bagaça
 
